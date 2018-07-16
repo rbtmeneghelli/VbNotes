@@ -1,0 +1,142 @@
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Resources.resources
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.vbproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmenu.resources
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmacss.resources
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmgym.resources
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmamg.resources
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmcom.resources
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmser.resources
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmemp.resources
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmus.resources
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmsites.resources
+C:\Users\Roberto\Desktop\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmlog.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmacss.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmamg.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmcom.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmemp.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmgym.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmlog.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmenu.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmus.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmser.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmsites.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Resources.resources
+C:\Users\Roberto\Desktop\teste\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.vbproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmacss.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmamg.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmcom.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmemp.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmgym.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmjog.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmlog.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmenu.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmus.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmser.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmsites.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Resources.resources
+C:\Users\Roberto\Desktop\Personal_book - copia (2)\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.vbproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmacss.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmamg.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmapl.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmcom.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmemp.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmgym.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmjog.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmlog.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmenu.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmus.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmser.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmsites.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Resources.resources
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.vbproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Desktop\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmacss.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmamg.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmapl.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmcom.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmemp.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmgym.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmjog.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmlog.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmenu.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmus.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmser.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmsites.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Resources.resources
+C:\Users\Roberto\Documents\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.vbproj.GenerateResource.Cache
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmacss.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmamg.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmapl.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmcom.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmemp.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmgym.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmjog.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmlog.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmenu.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmus.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmser.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmsites.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Resources.resources
+C:\Users\Roberto\Documents\Programas\Programas\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.vbproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.exe
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.pdb
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\bin\Debug\Frmpersonal_Book.xml
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmacss.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmamg.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmapl.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmcom.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmemp.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmgym.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmjog.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmlog.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmenu.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmmus.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmser.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Frmsites.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.Resources.resources
+C:\Users\Roberto\Desktop\Personal_book\Personal_book\Agenda Pessoal\Frmpersonal_Book\Frmpersonal_Book\obj\Debug\Frmpersonal_Book.vbproj.GenerateResource.Cache
